@@ -1,9 +1,7 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Vitaliyhan
- * Date: 06.09.2019
- * Time: 14:44
- */
 
-echo ("ïðèâåò))");
+
+echo ("Ð¿Ñ€Ð¸Ð²ÐµÑ‚))");
+
+var_dump(__DIR__);
+
